@@ -2,11 +2,11 @@
 	"name": "drops-of-gold-alfred",
 	"displayName": "Drops of Gold for Alfred app",
 	"description": "Professional Alfred color-scheme with hand-picked drops of gold.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "Thijs Moens",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/thijsmoensdev/drops-of-gold-alfred"
+		"url": "https://github.com/thijswillemmoens/drops-of-gold-alfred"
 	},
 	"keywords": [
 		"Drops of Gold",

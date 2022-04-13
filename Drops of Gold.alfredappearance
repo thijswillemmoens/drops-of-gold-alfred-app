@@ -5,13 +5,13 @@
       "subtext" : {
         "size" : 12,
         "colorSelected" : "#504734FF",
-        "font" : "Operator SSm",
+        "font" : "Raketwetenschap sans",
         "color" : "#73684BFF"
       },
       "shortcut" : {
         "size" : 17,
         "colorSelected" : "#73684BFF",
-        "font" : "Operator SSm",
+        "font" : "Raketwetenschap sans",
         "color" : "#807153FF"
       },
       "backgroundSelected" : "#A08F68FF",
