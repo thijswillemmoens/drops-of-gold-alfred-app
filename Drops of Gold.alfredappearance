@@ -5,20 +5,20 @@
       "subtext" : {
         "size" : 12,
         "colorSelected" : "#504734FF",
-        "font" : "Raketwetenschap sans",
+        "font" : "Brandon Text",
         "color" : "#73684BFF"
       },
       "shortcut" : {
         "size" : 17,
         "colorSelected" : "#73684BFF",
-        "font" : "Raketwetenschap sans",
+        "font" : "Brandon Text",
         "color" : "#807153FF"
       },
       "backgroundSelected" : "#A08F68FF",
       "text" : {
         "size" : 22,
         "colorSelected" : "#FFFFFFFF",
-        "font" : "Raketwetenschap sans",
+        "font" : "Brandon Text",
         "color" : "#C0C0C0FF"
       },
       "iconPaddingHorizontal" : 14,

@@ -11,3 +11,5 @@ Professional Alfred color-scheme for maximum productivity.
 
 ### Use of Fonts
 I personally use Brandon Text for my sans font. Unfortunately, it's a paid font, so I can't include it here. [For 35 dollars you can purchase it yourself.](https://www.myfonts.com/collections/brandon-text-font-hvd-fonts)
+
+> The More Gold version uses also my title font, [which is Filson Pro.](https://fonts.adobe.com/fonts/filson)
