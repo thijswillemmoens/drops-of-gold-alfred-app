@@ -12,5 +12,8 @@
 		"Drops of Gold",
 		"Drops of Gold Alfred",
 		"Drops of Gold Alfred App"
-	]
+	],
+	"devDependencies": {
+		"prettier": "2.7.1"
+	}
 }
