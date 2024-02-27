@@ -10,7 +10,7 @@ Drops of Gold Theme for Alfred is a professional Alfred color-scheme for maximum
 ## How to install
 
 1. Download [`Drops of Gold.alfredappearance`] or [`Drops with more Gold.alfredappearance`] — just click this link and Press <kbd>Cmd/Ctrl</kbd> + <kbd>S</kbd> to save it as is on your system. Make sure the extension remains `.alfredappearance`
-2. Double click to open it in Alfred, it will ask you to confirm the import. Do that.
+2. Double-click to open it in Alfred, it will ask you to confirm the import. Do that.
 3. Done!!!
 
 ## Changelog
@@ -42,7 +42,7 @@ There are various ways you can contribute:
 
 ## Sponsor
 
-Enjoy my Open Source and free work and [don't forget to tip the waiter.](https://github.com/thijswillemmoens/sponsor) ☕
+Enjoy my Open Source and free work and [don't forget to tip the waiter.](https://rktwtsp.com/coffee) ☕
 
 <div align="left">
     <p><a href="https://twitter.com/thijsmoens/"><img alt="Twitter @thijsmoens" align="center" src="https://img.shields.io/badge/-@thijsmoens-gray.svg?colorA=3d3d3d&colorB=3d3d3d&style=for-the-badge" /></a>&nbsp;<small> Follow me on Twitter</small></p>
